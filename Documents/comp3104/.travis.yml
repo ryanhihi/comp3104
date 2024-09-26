@@ -4,7 +4,7 @@ node_js:
 deploy:
 provider: pages
 skip_cleanup: true
-github_token: $https://app.travis-ci.com/ryanhihi/comp3104.svg?token=U3Ukq6H8sps2qioMEcVx
+github_token: $github_token
 local_dir: build
 on:
 branch: master
