@@ -1,0 +1,1 @@
+const logsDir = path.join(__dirname, 'Logs');
